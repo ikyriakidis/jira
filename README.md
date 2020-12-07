@@ -1,5 +1,5 @@
 # jira
-Useful ira Query Language (JQL) queries
+Useful Jira Query Language (JQL) queries
 
 To find ALL my tickets (present + previous/historic):
 
